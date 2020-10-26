@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "properties": 
+      "properties":
 	  {
 		"sensor_id": 69422
 	  },

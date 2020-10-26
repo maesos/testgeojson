@@ -1,9 +1,12 @@
-geo({
+{
   "type": "FeatureCollection",
   "features": [
     {
       "type": "Feature",
-      "properties": {"SENSORID": 69422},
+      "properties": 
+	  {
+		"sensor_id": 69422
+	  },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,4 +16,4 @@ geo({
       }
     }
   ]
-});
+}
